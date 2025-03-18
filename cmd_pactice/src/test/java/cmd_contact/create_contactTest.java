@@ -22,4 +22,10 @@ public class create_contactTest {
 
 		System.out.println("contact is created without mobile number");
 	}
+	
+	@Test
+	public void deleteContact() {
+
+		System.out.println("contact is created without mobile number");
+	}
 }
